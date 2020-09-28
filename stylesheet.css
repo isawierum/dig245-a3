@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'alte_haas_groteskbold';
-    src: url('https://isawierum.github.io/dig245-a3/css/fonts/alte-haas-grotesk-bold-webfont.woff2') format('woff2'),
-         url('https://isawierum.github.io/dig245-a3/css/fonts/alte-haas-grotesk-bold-webfont.woff') format('woff');
+    src: url('https://isawierum.github.io/dig245-a3/alte-haas-grotesk-bold-webfont.woff2') format('woff2'),
+         url('https://isawierum.github.io/dig245-a3/alte-haas-grotesk-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
