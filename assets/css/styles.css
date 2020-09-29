@@ -17,3 +17,7 @@ body{font-family: "alte_haas_groteskbold"}
 .yellow {color:#dead16;}
 .beige {color:#d8e4d4;}
 .black {color:#000b1c;}
+
+h3{
+  font-size: 30px;
+}
