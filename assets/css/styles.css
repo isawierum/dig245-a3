@@ -61,3 +61,12 @@ h2{
   bottom: 1975px;
   left: 250px;
 }
+
+.pink{
+  z-index:5;
+  position: relative;
+  bottom: 3266px;
+  right: 1px;
+
+
+}
