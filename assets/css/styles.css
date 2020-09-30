@@ -26,3 +26,38 @@ h2{
   font-size: 1.5rem;
   padding-top: 40px;
 }
+
+.link{
+  font-size: 200px
+  text-align: center;
+  color:#313187;
+  padding-bottom: 75 px;
+}
+
+.squares{
+  z-index: 1;
+  position: absolute;
+}
+
+.bluecircles {
+  z-index: 2;
+
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.darkbluecircles {
+  z-index: 3;
+  position: relative;
+  bottom:1010px;
+  left: 100px;
+
+}
+
+.greencircles {
+  z-index: 4;
+  position: relative;
+  bottom: 1975px;
+  left: 250px;
+}
